@@ -3,7 +3,7 @@ import React from 'react';
 function HomePage() {
   return (
     <div>
-      {/* Navbar */}
+      
       <nav style={styles.navbar}>
         <div style={styles.logo}>
           <span style={styles.logoHighlight}>BR</span>{' '}
@@ -16,7 +16,7 @@ function HomePage() {
         </div>
       </nav>
 
-      {/* Hero Section */}
+    
       <div style={styles.heroSection}>
         <h1 style={styles.heroText}>
           <span style={styles.heroTextHighlight}>BR</span>{' '}Architects
